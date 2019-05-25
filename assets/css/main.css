@@ -182,12 +182,12 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: red !important;
+			color: blue !important;
 			font-size: 24px !important;
 		}
 
 			a:hover:before {
-				color: red !important;
+				color: blue !important;
 				font-size: 24px !important;
 			}
 
